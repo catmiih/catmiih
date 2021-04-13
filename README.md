@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://br.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_10798281.htm" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UX Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Oiie! Meu nome é Emily, tenho 16 anos e sou uma aspirante a desenvolvedora de sistemas! Me chamo Emily e nasci em 7 de março de 2005, meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
+
+O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Atualmente estou no meu segundo ano e ainda é só o começo! 
 </p>
 
 <p align="left">
@@ -22,7 +24,4 @@
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
 </p>  
