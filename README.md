@@ -23,8 +23,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <p align="left">
   <a href="https://www.instagram.com/srt.miih/" alt="Instagram">
-  <img src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="5%"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
   <a href="https://www.linkedin.com/in/emily-leme/" alt="Linkedin">
-  <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width="5%"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 </p>  
