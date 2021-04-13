@@ -1,7 +1,7 @@
 <img src="https://servion.com/digital-engineering/wp-content/uploads/2019/04/software_engineering_img1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
-<h3>Estidante de Análise e Desenvolvimento de sistemas.</h3>
+<h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
 
 <p align="left"> 
   Oiie! Meu nome é Emily, tenho 16 anos e sou uma aspirante a desenvolvedora de sistemas! Me chamo Emily e nasci em 7 de março de 2005, meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
