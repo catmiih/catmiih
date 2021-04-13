@@ -1,4 +1,4 @@
-<img src="https://br.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_10798281.htm" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://servion.com/digital-engineering/wp-content/uploads/2019/04/software_engineering_img1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
 
 <p align="left"> 
   Oiie! Meu nome é Emily, tenho 16 anos e sou uma aspirante a desenvolvedora de sistemas! Me chamo Emily e nasci em 7 de março de 2005, meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
