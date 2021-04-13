@@ -1,4 +1,4 @@
-<img src="http://cdn.lowgif.com/full/df5099c0ef79db1b-jquery-lazy-load.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
+<img src="https://servion.com/digital-engineering/wp-content/uploads/2019/04/software_engineering_img1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
