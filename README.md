@@ -1,4 +1,4 @@
-<img src="https://www.intelegain.com/wp-content/uploads/2018/12/back-end-developer-vector.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
+<img src="https://cdni.iconscout.com/illustration/free/thumb/developer-2080968-1750498.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
