@@ -10,7 +10,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </p>
 
 <p align="left">
-  🚀 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, JQuery, PHP, SQL, Java.</strong>
+  🚀 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, JQuery, PHP, SQL, Java, React Native.</strong>
 </p>
 
 <p align="left">
