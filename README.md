@@ -22,6 +22,9 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </p>
 
 <p align="left">
+  
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  
   <a href="https://www.instagram.com/srt.miih/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-613180?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
