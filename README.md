@@ -1,4 +1,4 @@
-<img src="https://cdni.iconscout.com/illustration/free/thumb/design-and-development-process-2040883-1721879.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
+<img src="https://ais-10072.kxcdn.com/wp-content/uploads/2019/08/Hire-Full-Stack-Developer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
