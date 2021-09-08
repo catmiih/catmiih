@@ -1,4 +1,4 @@
-<img src="https://o.remove.bg/downloads/3f251242-6292-4822-97ae-0fb09b9a4cf2/imagem_2021-09-08_095520-removebg-preview.png" width="450px" align="right" alt="Foto de um computador">
+<img src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png" width="350px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
