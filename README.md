@@ -37,4 +37,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 <a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+
+<a href="https://catmiih.github.io/dev-leme/" target="_blank" alt="site-pessoal">
+  <img src="https://img.shields.io/badge/-SITE%20PESSOAL-132336?style=for-the-badge&logo=appveyor&logoColor=white" />
+</a>
 </p>  
