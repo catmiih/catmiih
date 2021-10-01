@@ -30,10 +30,6 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511962891250" target="_blank" alt="Whatsapp">
-  <img src="https://img.shields.io/badge/-Whatsapp-66ce51?style=for-the-badge&logo=Whatsapp&logoColor=white" />
-</a>
-
 <a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
