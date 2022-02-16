@@ -4,9 +4,9 @@
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
 
 <p align="left"> 
-  Oiie! Meu nome é Emily, tenho 16 anos e sou uma aspirante a desenvolvedora de sistemas! Nasci em 7 de março de 2005, meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
+  Oiie! Meu nome é Emily, tenho 16 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas, atuando como Analista de Infraestrutura pela Hackersec! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Atualmente estou no meu segundo ano e ainda é só o começo! 
+O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura.
 </p>
 
 <p align="left">
@@ -32,9 +32,5 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
-
-<a href="https://catmiih.github.io/dev-leme/" target="_blank" alt="site-pessoal">
-  <img src="https://img.shields.io/badge/-SITE%20PESSOAL-132336?style=for-the-badge&logo=appveyor&logoColor=white" />
 </a>
 </p>  
