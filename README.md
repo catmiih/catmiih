@@ -17,6 +17,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   💻 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator, Eclipse Workspace.</strong>
 </p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+
 <p align="left">
   🤝 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
