@@ -14,15 +14,15 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </h2>
 
 <div>
-  <img height="30px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
-  <img height="30px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
-  <img height="30px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
-  <img height="30px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
-  <img height="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
-  <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1200px-Anonymous_emblem.svg.png"/>
-  <img height="30px" src="https://img.cppng.com/download/2020-06/68988-kali-android-linux-free-clipart-hq.png"/>
-  <img height="30px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
-  <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/>
+  <img height="50px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
+  <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
+  <img height="50px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
+  <img height="50px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
+  <img height="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1200px-Anonymous_emblem.svg.png"/>
+  <img height="50px" src="https://img.cppng.com/download/2020-06/68988-kali-android-linux-free-clipart-hq.png"/>
+  <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/>
   </div>
 
 </hr>
