@@ -9,13 +9,23 @@
 O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura.
 </p>
 
-<p align="left">
-  🚀 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, JQuery, PHP, SQL, Java.</strong>
-</p>
+<h2 align="left">
+  🚀 Ferramentas e habilidades:
+</h2>
 
-<p align="left">
-  💻 Ferramentas: <strong>VSCode, Adobe Photoshop, Adobe Illustrator, Eclipse Workspace.</strong>
-</p>
+<img height="30px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
+<img height="30px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
+<img height="30px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
+<img height="30px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
+<img height="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
+<img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1200px-Anonymous_emblem.svg.png"/>
+<img height="30px" src="https://img.cppng.com/download/2020-06/68988-kali-android-linux-free-clipart-hq.png"/>
+<img height="30px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
+<img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/>
+
+</hr>
+
+<h2>⚙️ Estatísticas:</h2>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
