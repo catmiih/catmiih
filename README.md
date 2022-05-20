@@ -1,4 +1,4 @@
-<img src="https://pensador-digital.com/wp-content/uploads/2021/04/cover-img-1-1.png" width="350px" align="right" alt="Foto de um computador">
+<img src="https://cdni.iconscout.com/illustration/free/thumb/antivirus-fight-with-hackers-2040895-1721891.png" width="350px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Analista de Infraestrutura e Estudante de Análise e Desenvolvimento de sistemas.</h3>
