@@ -1,4 +1,4 @@
-<img src="https://o.remove.bg/downloads/5551dd95-d82b-4261-85ae-e1648cbd2098/imagem_2022-05-20_074011714-removebg-preview.png" width="400px" align="right" alt="Foto de um computador">
+<img src="img.png" width="400px" align="right" alt="Foto de um computador">
 
 <h1>Emily Leme</h1>
 <h3>Analista de Infraestrutura e Estudante de Análise e Desenvolvimento de sistemas.</h3>
