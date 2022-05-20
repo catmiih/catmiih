@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2019/02/19/01/39/hacker-4005882_1280.png" width="425px" align="right" alt="Foto de um hacker">
+<img src="https://cdn.pixabay.com/photo/2019/02/19/01/39/hacker-4005882_1280.png" width="325px" align="right" alt="Foto de um hacker">
 
 <h1>Emily Leme</h1>
 <h3>Analista de Infraestrutura e Estudante de Análise e Desenvolvimento de sistemas.</h3>
