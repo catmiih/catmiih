@@ -1,4 +1,4 @@
-<img src="img.png" width="500px" align="right" alt="Foto de um hacker">
+<img src="img.png" width="450px" align="right" alt="Foto de um hacker">
 
 <h1>Emily Leme</h1>
 <h3>Analista de Infraestrutura e Estudante de Análise e Desenvolvimento de sistemas.</h3>
