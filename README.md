@@ -55,4 +55,4 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </a>
 </p>  
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/catmiih/catmiih/blob/output/github-contribution-grid-snake.svg)
