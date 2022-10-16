@@ -54,3 +54,5 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 </p>  
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
