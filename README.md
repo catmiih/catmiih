@@ -1,7 +1,7 @@
 <img src="https://cdn.pixabay.com/photo/2019/02/19/01/39/hacker-4005882_1280.png" width="300px" align="right" alt="Foto de um hacker">
 
 <h1>Emily Leme</h1>
-<h3>Analista de Infraestrutura e Estudante de Análise e Desenvolvimento de sistemas.</h3>
+<h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
 
 <p align="left"> 
   Oiie! Meu nome é Emily, tenho 17 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas, atuando como Analista de Infraestrutura pela Hackersec! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
