@@ -6,7 +6,7 @@
 <p align="left"> 
   Oiie! Meu nome é Emily, tenho 17 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas, atuando como Analista de Infraestrutura pela Hackersec! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou em busca de aprimorar e avançar em meus projetos pessoais al´m de evoluir como profissional.
+O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou em busca de aprimorar e avançar em meus projetos pessoais além de evoluir como profissional.
 </p>
 
 <h2 align="left">
