@@ -53,6 +53,11 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 <a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+  
+<a href="https://wa.me/5511962891250" target="_blank" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/-Whatsapp-3BB332?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+</a>
+  
 </p>  
 
 ![snake gif](https://github.com/catmiih/catmiih/blob/output/github-contribution-grid-snake.svg)
