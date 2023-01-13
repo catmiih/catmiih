@@ -25,7 +25,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img height="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/1200px-Anonymous_emblem.svg.png"/>
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"/>
+  <img height="50px" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png"/>
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/> 
   
