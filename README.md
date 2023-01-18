@@ -38,6 +38,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=cobalt&cache_seconds=1800"/>
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=cobalt"/>
 
+<br>
 <p>
   🤝 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
