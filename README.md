@@ -36,7 +36,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 <h2>⚙️ Estatísticas:</h2>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=cobalt&cache_seconds=1800"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=cobalt)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=cobalt"/>
 
 <p align="left">
   🤝 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
