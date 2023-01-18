@@ -35,10 +35,9 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <h2>⚙️ Estatísticas:</h2>
 
-<img height="220em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=cobalt&cache_seconds=1800"/>
-<img height="220em" align="right" src="https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=cobalt"/>
+<img height="210em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&layout=compact&langs_count=7&theme=cobalt&cache_seconds=1800"/>
+<img height="210em" align="right" src="https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=cobalt"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </hr>
 
 <p>
