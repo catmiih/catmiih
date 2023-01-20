@@ -62,6 +62,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img src="https://img.shields.io/badge/-Whatsapp-3BB332?style=for-the-badge&logo=Whatsapp&logoColor=white" />
 </a>
   
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/mily%238861-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a> 
 </p>  
 
 ![snake gif](https://github.com/catmiih/catmiih/blob/output/github-contribution-grid-snake.svg)
