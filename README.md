@@ -1,9 +1,18 @@
-<img src="https://cdn.pixabay.com/photo/2019/02/19/01/39/hacker-4005882_1280.png" width="300px" align="right" alt="Foto de um hacker">
+<div>
 
-<h1>Emily Leme</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=500&color=F74949&width=550&height=100&lines=Boas+vindas+ao+meu+perfil!;Me+chamo+Emily+Leme;Dev.+Fullstack+Web+e+Mobile;Aproveite+os+projetos+%3C3" alt="Typing SVG"/>
+
+<img src="https://o.remove.bg/downloads/b81d41f5-02ca-4115-96e2-71c3b24cbe4c/imagem_2023-01-22_135418153-removebg-preview.png" width="450px"/>
+</div>
+
+<br><br>
+
+<p align="left">
+
 <h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
 
-<p align="left"> 
+<hr>
+
   Oiie! Meu nome é Emily, tenho 17 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
 
 O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou ingressando ao meu ensino superior de Análise e desenvolvimento de sistemas pela Fatec Zona Leste, integrado ao programa P-TECH da IBM.
