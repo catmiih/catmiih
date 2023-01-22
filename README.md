@@ -1,11 +1,11 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=500&color=F74949&width=350&height=100&lines=Boas+vindas+ao+meu+perfil!;Me+chamo+Emily+Leme;Dev.+Fullstack+Web+e+Mobile;Aproveite+os+projetos+%3C3" alt="Typing SVG" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=500&color=F74949&width=370&height=50&lines=Bem+vindo{a}!;Me+chamo+Emily;Sou+Desenvolvedora;Fullstack+Web;E+Fullstack+Mobile;Obrigada...♥" alt="Typing SVG" align="left"/>
 
 <img src="https://o.remove.bg/downloads/b81d41f5-02ca-4115-96e2-71c3b24cbe4c/imagem_2023-01-22_135418153-removebg-preview.png" width="450px" align="right"/>
 </div>
 
-<br><br><br>
+<br><br>
 
 <p align="left">
 
