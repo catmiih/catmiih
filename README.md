@@ -39,10 +39,11 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
   <img height="50px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"/>
 
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/> 
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>
   
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"/>
   
