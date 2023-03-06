@@ -46,6 +46,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img height="50px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png"/>
   
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"/>
+  <img height="50px" src="https://img.icons8.com/color/512/spring-logo.png"/>
+  <img height="50px" src="https://huongdanjava.com/wp-content/uploads/2017/07/maven.png"/>
   
   </div>
 
