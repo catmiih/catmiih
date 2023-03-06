@@ -58,8 +58,6 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
  <h2>🧑 Visitantes </h2>
  
  <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
-
-<br><br><br><br><br><br><br><br><br>
 <hr>
 
 <p>
