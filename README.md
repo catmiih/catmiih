@@ -55,7 +55,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <h2>⚙️ Estatísticas:</h2>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=catmiih&theme=hacker&locale=pt_BR)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=catmiih&bg_color=141414&color=ffffff&line=7a25a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <h2>🧑 Visitantes </h2>
  
