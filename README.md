@@ -43,7 +43,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/> 
-  <img height="50px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png"/>
+  <img height="50px" src="https://d4.alternativeto.net/uaUADPLN5QTqRHNl0qujQbTXzm5wjsAq5K9Y-ylGjdQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90YWlsd2luZC1jc3NfMTM2NjE5LnBuZw.png"/>
   
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"/>
   <img height="50px" src="https://img.icons8.com/color/512/spring-logo.png"/>
