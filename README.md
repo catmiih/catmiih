@@ -55,7 +55,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <h2>⚙️ Estatísticas:</h2>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=catmiih&theme=github-dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=catmiih&theme=hacker&locale=pt_BR)](https://git.io/streak-stats)
  
  <h2>🧑 Visitantes </h2>
  
