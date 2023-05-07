@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=F74949&width=420&height=50&lines=Bem+vindo{a}+ao+meu+perfil!;Me+chamo+Emily+Leme;Sou+Desenvolvedora+Fullstack;Aproveite+os+projetos;E+me+siga+para+mais!;Obrigada+pelo+apoio+<3" alt="Typing SVG" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=F74949&width=420&height=50&lines=Bem+vindo{a}+ao+meu+perfil!;Me+chamo+Emily+Leme;Sou+Desenvolvedora+Fullstack+Java;Aproveite+os+projetos;E+me+siga+para+mais!;Obrigada+pelo+apoio+<3" alt="Typing SVG" align="left"/>
 
 <img src="https://64.media.tumblr.com/55f57e7f662f882d127784a453d107ca/tumblr_msghlxjj0p1qbu2bao1_400.gif" width="350px" align="right"/>
 </div>
@@ -9,13 +9,13 @@
 
 <p align="left">
 
-<h3>Estudante de Análise e Desenvolvimento de sistemas.</h3>
+<h3>Desenvolvedora FullStack Java Junior.</h3>
 
 <hr>
 
   Oiie! Meu nome é Emily, tenho 18 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou cursando meu ensino superior de Análise e desenvolvimento de sistemas pela Fatec Zona Leste, integrado ao programa P-TECH da IBM.
+O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou cursando meu ensino superior de Análise e desenvolvimento de sistemas pela Fatec Zona Leste, integrado ao programa P-TECH da IBM e atuo como desenvolvedora Full Stack Java Junior.
 </p>
 
 <h2 align="left">
@@ -38,7 +38,6 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
   
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
-  <img height="50px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"/>
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"/>
 
   <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
