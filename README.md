@@ -54,7 +54,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 
 <h2>⚙️ Estatísticas:</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=catmiih&bg_color=141414&color=ffffff&line=7a25a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Catmiih's GitHub stats](https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=radical)
  
  <h2>🧑 Visitantes </h2>
  
@@ -79,4 +80,4 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </a>
 </p>  
 
-![snake gif](https://github.com/catmiih/catmiih/blob/output/github-contribution-grid-snake.svg)
+![spotify playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=pl2cux8iygduf70irbk0veczs&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pl2cux8iygduf70irbk0veczs&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)
