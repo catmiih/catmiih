@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=500&color=F74949&width=540&height=50&lines=Emily+'catmiih'+Leme;Desenvolvedora+Backend+Java" alt="Typing SVG" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=460&color=F74949&width=540&height=50&lines=Emily+'catmiih'+Leme;Developer+Fullstack+Java" alt="Typing SVG" align="left"/>
 
 <img src="https://64.media.tumblr.com/55f57e7f662f882d127784a453d107ca/tumblr_msghlxjj0p1qbu2bao1_400.gif" width="350px" align="right"/>
 </div>
