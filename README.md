@@ -1,21 +1,42 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=460&color=F74949&width=540&height=50&lines=Emily+'catmiih'+Leme;Desenvolvedora+Fullstack+Java" alt="Typing SVG" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=460&color=FFFFFF&width=540&height=50&lines=Emily+'catmiih'+Leme;Desenvolvedora+Fullstack+Java" alt="Typing SVG" align="left"/>
 
-<img src="https://64.media.tumblr.com/55f57e7f662f882d127784a453d107ca/tumblr_msghlxjj0p1qbu2bao1_400.gif" width="350px" align="right"/>
+<img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" width="400px" align="right"/>
+
 </div>
 
 <br><br>
+<p align="left>
+  
+  <a href="https://www.linkedin.com/in/emily-leme" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
+  
+  <a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 
-<p align="left">
+  <a href="https://discordapp.com/users/SEU_ID" target="_blank" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
-<h3>Desenvolvedora FullStack Java.</h3>
-
+  <a href="https://SEU_PORTFOLIO.com" target="_blank" alt="Portfólio">
+    <img
+      src="https://img.shields.io/badge/-Portf%C3%B3lio-c3829e?style=for-the-badge&logo=instatus&logoColor=white"
+      alt="Portfólio"
+    />
+  
+</p>
 <hr>
+<p align="left">
+Desde cedo tive contato com tecnologia e, em 2019, ingressei no curso técnico em Desenvolvimento de Sistemas pela ETEC, onde consolidei minha base em lógica, banco de dados e desenvolvimento web. </br></br>
 
-  Oiie! Meu nome é Emily, tenho 19 anos e atualmente estou me formando em Análise e desenvolvimento de Sistemas! Nasci em 7 de março de 2005 e meu amor por tecnologia começou quando eu era bem nova e adorava passar horas e horas jogando videogame ou usando o computador, e em 2012, que foi quando surgiu uma oportunidade, comecei um curso básico em informática, que foi a chave para eu me tornar a pessoa que sou hoje.<br/><br/>
+Em 2021, iniciei minha carreira como desenvolvedora na Hackersec, que na época atuava como uma EdTech de segurança da informação. Lá, trabalhei no Front-End e tive forte exposição à área de cibersegurança, o que ampliou minha visão sobre performance, infraestrutura e automação.</br></br>
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 decidi prestar vestibular para entrar na Etec em Desenvolvimento de Sistemas com mentoria especial da IBM. Em 2021 decidi ingressar no mercado de trabalho e comecei a atuar como desenvolvedora FrontEnd para a Hackersec, onde com o decorrer do tempo adquiri habilidades em cibersegurança e migrei para a área de Infraestrutura. No momento estou cursando meu ensino superior de Análise e desenvolvimento de sistemas pelo Instituto Infnet e atuo como desenvolvedora Full Stack Java.
+Atualmente, sou Desenvolvedora Pleno na Zeus Energia, uma Fintech focada em gestão de trades de comercializadoras e gestoras no setor de energia elétrica no Brasil, onde atuo desde 2023. Nesse período, desenvolvi e mantive sistemas de grande porte, trabalhando diretamente com Java (Spring Boot) e AngularJS, lidando com sistemas legados, integrações complexas de back-end, automação de fluxos críticos com Selenium/ChromeDriver e manipulação de grandes volumes de dados em SQL.</br></br>
+
+Minha atuação é marcada pela participação em projetos críticos e de alta responsabilidade, aplicando metodologias ágeis (Scrum) e entregando soluções robustas que unem eficiência, segurança e escalabilidade.</br>
 </p>
 
 <h2 align="left">
@@ -23,61 +44,47 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2019 d
 </h2>
 
 <div>
-  <img height="50px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
-  <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
-  <img height="50px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
-  
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
-  <img height="50px" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"/>
-  
-  <img height="50px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
-  <img height="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/>
-  <img height="50px" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-  
-  <img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"/>
-
-  <img height="50px" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"/> 
-  <img height="50px" src="https://d4.alternativeto.net/uaUADPLN5QTqRHNl0qujQbTXzm5wjsAq5K9Y-ylGjdQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90YWlsd2luZC1jc3NfMTM2NjE5LnBuZw.png"/>
-  
-  <img height="50px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"/>
-  <img height="50px" src="https://img.icons8.com/color/512/spring-logo.png"/>
-  <img height="50px" src="https://huongdanjava.com/wp-content/uploads/2017/07/maven.png"/>
-  
-  </div>
+  <img height="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img height="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" title="Expo (React Native)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg"/>
+  <img height="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+  <img height="40" title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="40" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img height="40" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+  <img height="40" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
+  <img height="40" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img height="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="40" title="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img height="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img height="40" title="Ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
+  <img height="40" title="Kali Linux" src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg"/>
+  <img height="40" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="40" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>  
+  <img height="40" title="Intellij" src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg"/>    
+</div>
 
 </hr>
 
 <h2>⚙️ Estatísticas:</h2>
 
 
-[![Catmiih's GitHub stats](https://github-readme-stats.vercel.app/api?username=catmiih&show_icons=true&theme=radical)
- 
- <h2>🧑 Visitantes </h2>
- 
- <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
-<hr>
-
-<p>
-  🤝 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
+[![Catmiih's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&langs_count=8&show_icons=true&theme=transparent&layout=compact)]
 
 <p align="left">
- <a href="https://github.com/catmiih" target="_blank" alt="Github">
-    <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
-</a>
+  <img src="https://pa1.aminoapps.com/6479/9747b7158d4a21faaaebabc9e3a88880bb1f45a7_hq.gif" width="60%" alt="linha animada" />
+</p>
 
-<a href="https://www.linkedin.com/in/emily-leme/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
 
-<a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
-</p>  
-
-![spotify playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=pl2cux8iygduf70irbk0veczs&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pl2cux8iygduf70irbk0veczs&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)
