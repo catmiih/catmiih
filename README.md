@@ -83,8 +83,3 @@ Minha atuação é marcada pela participação em projetos críticos e de alta r
 
 [![Catmiih's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=catmiih&langs_count=8&show_icons=true&theme=transparent&layout=compact)]
 
-<p align="left">
-  <img src="https://pa1.aminoapps.com/6479/9747b7158d4a21faaaebabc9e3a88880bb1f45a7_hq.gif" width="60%" alt="linha animada" />
-</p>
-
-
