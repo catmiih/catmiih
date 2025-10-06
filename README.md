@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://SEU_PORTFOLIO.com" target="_blank" alt="Portfólio">
+  <a href="https://catmiih.github.io/Portfolio" target="_blank" alt="Portfólio">
     <img
       src="https://img.shields.io/badge/-Portf%C3%B3lio-c3829e?style=for-the-badge&logo=instatus&logoColor=white"
       alt="Portfólio"
