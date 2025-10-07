@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 
-  <a href="https://discordapp.com/users/SEU_ID" target="_blank" alt="Discord">
+  <a href="https://discordapp.com/users/541026656387727370" target="_blank" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
