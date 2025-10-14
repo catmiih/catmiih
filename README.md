@@ -30,7 +30,7 @@
 </p>
 <hr>
 <p align="left">
-Desde cedo tive contato com tecnologia e, em 2019, ingressei no curso técnico em Desenvolvimento de Sistemas pela ETEC, onde consolidei minha base em lógica, banco de dados e desenvolvimento web. </br></br>
+Desde cedo tive contato com tecnologia e, em 2020, ingressei no curso técnico em Desenvolvimento de Sistemas pela ETEC, onde consolidei minha base em lógica, banco de dados e desenvolvimento web. </br></br>
 
 Em 2021, iniciei minha carreira como desenvolvedora na Hackersec, que na época atuava como uma EdTech de segurança da informação. Lá, trabalhei no Front-End e tive forte exposição à área de cibersegurança, o que ampliou minha visão sobre performance, infraestrutura e automação.</br></br>
 
