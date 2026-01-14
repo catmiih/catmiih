@@ -22,26 +22,29 @@
   </a>
   
 </p>
-<hr>
+
 <p align="left">
-Software Engineer with 4+ years of experience specialized in <b>Fintech and Energy Sector</b> solutions. I'm a tech-agnostic developer focused on high-efficiency backend systems and workflow automation.</br>
+  Software Engineer with <b>4+ years of experience</b> specialized in <b>Fintech and Energy Sector</b> solutions. 
+  I'm a tech-agnostic developer focused on high-efficiency backend systems and workflow automation.
 </p>
 
-<h2 align="left">
-  🚀 Key Highlights:
-</h2>
+<hr>
 
-- **Efficiency:** Reduced manual 24-hour operational cycles to **sub-3-hour automated tasks** using Python & Selenium.
-- **Velocity:** Leveraging AI-assisted development to compress **3-week project cycles into 1 week** of high-quality delivery.
-- **Scale:** Currently maintaining mission-critical ERP systems for **100+ corporate clients** in the Brazilian Energy Market.
-- **Security Mindset:** Background in Cybersecurity content creation (CTF challenges) at HackerSec.
+<h3>🚀 Key Highlights:</h3>
 
-</hr>
+<ul>
+  <li><b>Efficiency:</b> Reduced manual 24-hour operational cycles to <b>sub-3-hour automated tasks</b> using Python & Selenium.</li>
+  <li><b>Velocity:</b> Leveraging AI-assisted development to compress <b>3-week project cycles into 1 week</b>.</li>
+  <li><b>Scale:</b> Maintaining mission-critical systems for <b>100+ corporate clients</b> in the Energy Market.</li>
+  <li><b>Security Mindset:</b> Background in Cybersecurity content creation (CTF challenges) at HackerSec.</li>
+</ul>
+<hr>
 
-<h2>⚙️ Tech Stack:</h2>
-
-- **Backend:** Java (Spring Boot 3, Hibernate), PHP, Node.js, Ruby.
-- **Automation:** Python, Selenium, ChromeDriver.
-- **Frontend:** AngularJS, TypeScript, JavaScript.
-- **Database:** SQL (MySQL, PostgreSQL), Firebase.
+<h3>⚙️ Tech Stack:</h3>
+<p>
+  <b>Backend:</b> Java (Spring Boot 3, Hibernate), PHP, Node.js, C++. <br>
+  <b>Automation:</b> Python, Selenium, ChromeDriver. <br>
+  <b>Frontend:</b> AngularJS, TypeScript, React, JavaScript. <br>
+  <b>Database:</b> SQL (MySQL, PostgreSQL, others), Firebase, MongoDB and others non relational.
+</p>
 
