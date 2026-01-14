@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" width="400px" align="right" />
+<img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" width="380px" align="right" />
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=400&color=FFFFFF&width=520&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=400&color=FFFFFF&width=480&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/emily-leme" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=ghost&logoColor=white" /></a>
@@ -20,7 +20,6 @@
 </ul>
 </div>
 
-<br clear="right">
 <hr>
 
 <h3>⚙️ Tech Stack:</h3>
