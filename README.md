@@ -1,13 +1,11 @@
 <div>
 
 <img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" width="400px" align="right"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=460&color=FFFFFF&width=540&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" align="left"/>
+<br><br>
 </div>
 
 <p align="left>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=460&color=FFFFFF&width=540&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" align="left"/>
-<br><br>
   
   <a href="https://www.linkedin.com/in/emily-leme" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=ghost&logoColor=white" />
