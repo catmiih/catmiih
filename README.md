@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" width="380px" align="right" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycW95ZzQ1bGxoaDdjMzY5anh2anFtdG9laDBwY245dXBzajBvajBvZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eLv7gJpxqiQtbNNQUe/source.gif" width="380px" align="right" />
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=400&color=FFFFFF&width=460&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" />
