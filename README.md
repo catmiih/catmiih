@@ -1,7 +1,7 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycW95ZzQ1bGxoaDdjMzY5anh2anFtdG9laDBwY245dXBzajBvajBvZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eLv7gJpxqiQtbNNQUe/source.gif" width="380px" align="right" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycW95ZzQ1bGxoaDdjMzY5anh2anFtdG9laDBwY245dXBzajBvajBvZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eLv7gJpxqiQtbNNQUe/source.gif" width="370px" align="right" />
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=400&color=FFFFFF&width=460&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=400&color=FFFFFF&width=480&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Software+and+Automation+Engineer" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/emily-leme" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=ghost&logoColor=white" /></a>
