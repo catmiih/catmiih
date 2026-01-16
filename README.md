@@ -16,7 +16,7 @@
 <li><b>Efficiency:</b> Reduced manual 24-hour operational cycles to <b>sub-3-hour automated tasks</b> using Python & Selenium.</li>
 <li><b>Velocity:</b> Leveraging AI-assisted development to compress <b>3-week project cycles into 1 week</b>.</li>
 <li><b>Scale:</b> Maintaining mission-critical systems for <b>100+ corporate clients</b> in the Energy Market.</li>
-<li><b>Security Mindset:</b> Background in Cybersecurity content creation (CTF challenges) at HackerSec.</li>
+<li><b>Security Mindset:</b> Background in Cybersecurity (CTF challenges).</li>
 </ul>
 </div>
 
