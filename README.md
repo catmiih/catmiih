@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/81/ba/c9/81bac953a776ea1c2b205597d76e113c.gif" width="350px" align="right" />
+<img src="https://i.pinimg.com/originals/81/ba/c9/81bac953a776ea1c2b205597d76e113c.gif" width="300px" align="right" />
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=450&color=FFFFFF&background=0D1117&width=520&height=50&lines=Hi!+I'm+Emily+'catmiih'+Leme;Mid-Level+Java+Web+Engineer;Spring+Boot+%26+SQL+Solutions;Bridging+Code+%26+Business+Rules" alt="Typing SVG" />
